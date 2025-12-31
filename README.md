@@ -8,7 +8,9 @@
 <br/>
 
 > 🚀 **Flutter Developer specializing in scalable LMS platforms, AI-powered features, and production-grade mobile applications used by real institutions.**
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umais-codes&label=Profile%20Views&color=0e75b6&style=flat" alt="umais-codes" />
+</p>
 ---
 
 ## 👨‍💼 About Me
@@ -90,19 +92,11 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umais-codes&label=Profile%20Views&color=0e75b6&style=flat" alt="umais-codes" />
-</p>
----
-
 ## 📌 Open To
 
 - Flutter Developer (Remote / Onsite)
 - Long-term Freelance Projects
 - LMS, EdTech & AI-powered Mobile Platforms
-
----
-
 ✨ *Always open to collaborating on meaningful Flutter & AI-driven products.*
 
 ---
