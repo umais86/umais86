@@ -57,17 +57,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-| Project | Description | Tech Stack |
-|------|------------|-----------|
-| **🏫 LMS (Education)** | Enterprise-grade dual-app system (Teacher & Student) with attendance tracking, grade management, salary slips, secure document uploads, and role-based access. | `Flutter` `REST API` `MERN` |
-| **🧺 Akoya Laundry** | Commercial laundry solution with cart management, fragrance selection, order tracking, and a premium user interface. | `Flutter` `Provider` `Firebase` |
-| **🤖 AI Exam Generator** | Intelligent exam paper generator integrating Python-based AI models via REST APIs into a clean Flutter UI. | `Flutter` `Python` `REST API` |
-| **🗣️ Translator App** | Real-time file and text translation app using MyMemory API with file-handling support. | `Flutter` `HTTP` `File Picker` |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
